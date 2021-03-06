@@ -1,0 +1,6 @@
+C:\Users\Viktoriia\Source\Repos\Classes\HomeWorkClasses2\bin\Debug\HomeWorkClasses2.exe.config
+C:\Users\Viktoriia\Source\Repos\Classes\HomeWorkClasses2\bin\Debug\HomeWorkClasses2.exe
+C:\Users\Viktoriia\Source\Repos\Classes\HomeWorkClasses2\bin\Debug\HomeWorkClasses2.pdb
+C:\Users\Viktoriia\Source\Repos\Classes\HomeWorkClasses2\obj\Debug\HomeWorkClasses2.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriia\Source\Repos\Classes\HomeWorkClasses2\obj\Debug\HomeWorkClasses2.exe
+C:\Users\Viktoriia\Source\Repos\Classes\HomeWorkClasses2\obj\Debug\HomeWorkClasses2.pdb
